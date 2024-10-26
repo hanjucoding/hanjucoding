@@ -5,7 +5,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjucoding&show_icons=true&theme=radical)
 ![Programmers Badge](https://raw.githubusercontent.com/hanjucoding/Programmers_Badge_Generator/main/result/result.svg)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnytanic)](https://solved.ac/tnytanic/)
-  
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-
 
